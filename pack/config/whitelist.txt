@@ -53,6 +53,7 @@ FEARXP                       || F.E.A.R. Extraction Point
 FEARXP2                      || F.E.A.R. Perseus Mandate
 ffxiv                        || Final Fantasy XIV
 ffxiv*                       || Final Fantasy XIV Launcher or Configurator
+Flashback                    || Flashback
 fr-041_debris                || "Debris" by Farbrausch
 grimrock                     || Legend of Grimrock
 GSGameExe_DX9                || Giana Sisters: Twisted Dreams
@@ -84,8 +85,6 @@ Might and Magic X Legacy     || Might and Magic X Legacy
 MirrorsEdge                  || Mirror's Edge
 mitsurugi                    || Mitsurugi Kamui Hikae
 mm                           || Dark Messiah of Might and Magic Single Player
-MOHA                         || Medal of Honor: Airborne
-MWOClient                    || MechWarrior Online
 OfOrcsAndMen_Steam           || Of Orcs And Men
 Paranautical Activity        || Paranautical Activity
 PathOfExileSteam             || Path of Exile
@@ -107,7 +106,6 @@ SpaceMarine                  || SpaceMarine
 SpecOpsTheLine               || Spec Ops: The Line
 StateOfDecay                 || State Of Decay
 TESV                         || The Elder Scrolls V: Skyrim
-TFOC                         || Transformers: Fall of Cybertron
 TheFall                      || The Fall
 TribesAscend                 || Tribes Ascend
 trine1_32bit                 || Trine 1 Enchanted Edition
@@ -115,8 +113,10 @@ trine1_launcher              || Trine 1 Enchanted Configurator
 trine2_32bit                 || Trine 2
 trine2_launcher              || Trine 2 Launcher
 tru                          || Tomb Raider: Underworld
-TWFC                         || Transformers: War for Cybertron
 Valiant Hearts               || Valiant Hearts
 witcher2                     || The Witcher 2
 WL2                          || Wastelands 2
 yso_win                      || Ys Origin
+MOHA            			 || Medal of Honor: Airborne
+TFOC          			     || Transformers: Fall of Cybertron
+TWFC          			     || Transformers: War for Cybertron
